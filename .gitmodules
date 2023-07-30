@@ -2,3 +2,9 @@
 	path = doc/m.css
   url = https://gitlab.com/cttc-lena/m.css
   branch = cttc-2022
+[submodule "ns-3-dev"]
+	path = ns-3-dev
+	url = https://gitlab.com/nsnam/ns-3-dev.git
+[submodule "nr"]
+	path = nr
+	url = https://gitlab.com/cttc-lena/nr.git
